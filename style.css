@@ -232,6 +232,110 @@ img{
     margin-top: 10px;
 }
 
+/* Page about creatyvity (and pyroland) */
+.creative-container {
+    background-color: rgb(247, 247, 247);
+    padding: 30px;
+    border: 1px solid gray;
+    box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2),0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+    border-radius: 20px;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+.creative-text {
+    margin-top: 30px;
+}
+.creative-img{
+    margin: 25px auto;
+    width: 700px;
+    height: 109%;
+    display: flex;
+    justify-content: center;
+}
+.creative-list{
+    list-style: square;
+    margin-left: 20px;
+}
+.creative-item{
+    margin-top: 10px;
+}
+
+/* Page about guinness records */
+.guinness-container {
+    background-color: rgb(247, 247, 247);
+    padding: 30px;
+    border: 1px solid gray;
+    box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2),
+        0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+    border-radius: 20px;
+    font-size: 20px;
+}
+.guinness-text{
+    margin-top: 30px;
+}
+.guinness-card {
+    margin-top: 50px;
+}
+.guinness-card-title{
+    font-size: 24px;
+
+}
+.guinness-card-text{
+    margin-top: 25px;
+}
+.guinness-card-img {
+    margin: 25px auto;
+    width: 650px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+/* Page about za warudo!!! */
+.world-container{
+    background-color: rgb(247, 247, 247);
+    padding: 30px;
+    border: 1px solid gray;
+    box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2),
+            0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+    border-radius: 20px;
+    font-size: 20px;
+}
+.world-text{
+    margin-top: 30px;
+}
+.world-card{
+    margin-top: 50px;
+}
+.world-card-title{
+    text-align: center;
+    font-size: 30px;
+
+}
+.world-card-img{
+    margin: 25px auto;
+    width: 650px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
 
 /* Contacts */
 .contacts-container {
